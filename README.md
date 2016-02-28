@@ -15,3 +15,6 @@
 	* Security
 	* Web Sockets
 	* SQL & noSQL
+	* NGINX or Similar
+	* Deploy the application to Heroku / Digitalocean / AWS
+	* Cluster the application
